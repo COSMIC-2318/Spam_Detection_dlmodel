@@ -1,0 +1,10 @@
+# Python Automatically Generated Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Heavy Deep Learning Model Artifacts & Weights
+production_spam_detector/
+
+# Mac OS Hidden System Files
+.DS_Store

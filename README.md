@@ -1,4 +1,4 @@
-# Enterprise Spam Detection Engine (DistilBERT)
+# Spam Detection Engine (DistilBERT)
 
 An end-to-end, full-stack NLP architecture designed to intercept sophisticated spear-phishing and spam payloads. This project utilizes a fine-tuned Hugging Face Transformer model integrated with a high-performance FastAPI backend and an asynchronous JavaScript frontend.
 
